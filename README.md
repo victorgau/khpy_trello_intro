@@ -1,6 +1,18 @@
-# 【唯客學院微課程】Trello 使用簡介
+# Trello 使用簡介
 
-### 課程內容：
+## 關於唯客學院：
+
+* [唯客學院網址](https://www.victorgau.com)
+* [唯客學院部落格](https://victorgau.com/blog/)
+* [高雄Python學院粉絲團](https://www.facebook.com/KHPYAcademy/)
+
+## 課程內容：
+
+### 1. 文件導覽
+
+* [Trello](https://trello.com)
+
+### 2. 實作引導
 
 * Kanban 簡介
   * Visualize Workflow
@@ -15,6 +27,6 @@
 * 建立 Card
 * 加入 Power-Ups
 
-### 相關連結：
+### 3. 自我挑戰
 
-* [Trello](https://trello.com)
+* 使用 Trello 來管理自己在唯客學院的學習進度
